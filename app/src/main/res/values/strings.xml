@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <array name="weightUnits">
+        <item>kg</item>
+        <item>LB</item>
+    </array>
+    <array name="heightUnits">
+        <item>M</item>
+        <item>FT</item>
+    </array>
+</resources>
